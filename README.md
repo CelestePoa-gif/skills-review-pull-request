@@ -23,7 +23,7 @@ Define terms and link to docs.github.com.
 
 _Almost there! :heart:_
 
-You can now (https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
 ### :keyboard: Activity: Merge your pull request
 
